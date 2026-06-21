@@ -1,0 +1,3 @@
+<mod displayName="Snappy Solar System" unique="snappysolarsystem" description="Makes navigation in galaxy much responsive and less annoying." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+    <prerequisite game="GalacticAdventures">!Snappy_Solar_System.package</prerequisite>
+</mod>
